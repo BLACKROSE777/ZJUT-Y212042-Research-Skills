@@ -1,0 +1,14 @@
+{
+  "id": "paper-analysis-skill",
+  "name": "Paper Analysis Skill",
+  "version": "0.1.0",
+  "author": "songtaoniu",
+  "description": "Retrieve and analyze top papers from arXiv",
+  "entry": "entry.py",
+  "commands": [
+    {
+      "name": "analyze_papers",
+      "description": "Fetch and summarize papers from arXiv"
+    }
+  ]
+}
